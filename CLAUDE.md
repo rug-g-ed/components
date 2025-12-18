@@ -1,0 +1,1 @@
+review the AGENTS.md file in the same repository for further information about the repository
